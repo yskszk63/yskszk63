@@ -9,4 +9,4 @@
 
 [https://yskszk63.vercel.app/](https://yskszk63.vercel.app/)
 
-[repos summary for me.](yskszk63.github.io/summary/)
+[repos summary for me.](https://yskszk63.github.io/summary/)
